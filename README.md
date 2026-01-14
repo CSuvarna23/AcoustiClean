@@ -7,23 +7,25 @@ It integrates a **FastAPI backend** with a **React frontend**, offering fast, re
 ---
 
 ## 📂 Project Structure
+
+```text
 AcoustiClean/
 │
 ├── backend/
-│ ├── app.py # FastAPI backend with API endpoints
-│ ├── processor.py # Core audio processing logic (Spleeter, PyDub, Librosa)
-│ └── requirements.txt # Python dependencies
+│   ├── app.py            # FastAPI backend with API endpoints
+│   ├── processor.py      # Core audio processing logic (Spleeter, PyDub, Librosa)
+│   └── requirements.txt  # Python dependencies
 │
 ├── frontend/
-│ ├── src/
-│ │ ├── App.js # Main React UI logic
-│ │ └── App.css # Styling for the interface
-│ ├── public/
-│ │ └── index.html # Root HTML
-│ └── package.json # Frontend dependencies & scripts
+│   ├── src/
+│   │   ├── App.js        # Main React UI logic
+│   │   └── App.css       # Styling for the interface
+│   ├── public/
+│   │   └── index.html    # Root HTML
+│   └── package.json      # Frontend dependencies & scripts
 │
 └── tmp/
-└── audioclean_temp # Temporary folder for intermediate audio outputs
+    └── audioclean_temp   # Temporary folder for intermediate audio outputs
 
 
 
