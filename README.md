@@ -1,4 +1,4 @@
-# 🎧 AcoustiClean – AI-Powered Audio Processing System
+# 🎧 AcoustiClean – An AI Audio Filtering System
 
 AcoustiClean is an AI-driven audio enhancement platform that provides advanced sound processing features such as **noise removal, vocal separation, multi-source separation & merging, and automatic speech transcription**.
 
