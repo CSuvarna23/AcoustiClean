@@ -192,31 +192,21 @@ AcoustiClean/
 │
 ├── backend/
 │   ├── app.py
-│   │   └── FastAPI backend and API endpoints
-│   │
 │   ├── processor.py
-│   │   └── Core audio processing logic
-│   │
 │   └── requirements.txt
-│       └── Python dependencies
 │
 ├── frontend/
-│   ├── src/
-│   │   ├── App.js
-│   │   │   └── Main React UI logic
-│   │   └── App.css
-│   │       └── Application styling
-│   │
 │   ├── public/
 │   │   └── index.html
-│   │       └── Root HTML document
+│   │
+│   ├── src/
+│   │   ├── App.js
+│   │   └── App.css
 │   │
 │   └── package.json
-│       └── Frontend dependencies and scripts
 │
 └── tmp/
-    └── audioclean_temp
-        └── Temporary audio processing files
+    └── audioclean_temp/
 
 🛠️ Technologies Used
 
