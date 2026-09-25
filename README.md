@@ -428,20 +428,4 @@ The project demonstrates the integration of:
 
 React → FastAPI → Audio Processing → AI Models → Downloadable Results
 
-👩‍💻 Project Structure at a Glance
 
-React Frontend
-      │
-      ▼
-FastAPI REST API
-      │
-      ▼
-Audio Processing Pipeline
-      │
-      ├── Noise Removal
-      ├── Vocal Separation
-      ├── Multi-Source Separation
-      └── Speech Transcription
-      │
-      ▼
-Processed Audio / Text
