@@ -186,8 +186,9 @@ Recorded conversations
                     │ Audio / Transcript   │
                     └──────────────────────┘
 
-📂 Project Structure
+## 📂 Project Structure
 
+```text
 AcoustiClean/
 │
 ├── backend/
@@ -207,6 +208,22 @@ AcoustiClean/
 │
 └── tmp/
     └── audioclean_temp/
+```
+
+### 📁 Folder & File Description
+
+| File / Folder | Description |
+|---|---|
+| `backend/` | FastAPI backend and audio processing |
+| `backend/app.py` | FastAPI application and API endpoints |
+| `backend/processor.py` | Core audio processing logic |
+| `backend/requirements.txt` | Python dependencies |
+| `frontend/` | React frontend application |
+| `frontend/public/index.html` | Root HTML file |
+| `frontend/src/App.js` | Main React UI logic |
+| `frontend/src/App.css` | Application styling |
+| `frontend/package.json` | Frontend dependencies and scripts |
+| `tmp/audioclean_temp/` | Temporary audio processing files |
 
 🛠️ Technologies Used
 
