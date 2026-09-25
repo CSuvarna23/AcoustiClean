@@ -7,7 +7,7 @@ It integrates a **FastAPI backend** with a **React frontend**, offering fast, re
 <img width="1600" height="778" alt="WhatsApp Image 2026-09-25 at 8 05 51 AM" src="https://github.com/user-attachments/assets/ad5a8c86-de84-4fae-b204-9e6e34bdaba7" />
 
 
-<img width="1600" height="757" alt="WhatsApp Image 2026-09-25 at 8 05 51 AM (1)" src="https://github.com/user-attachments/assets/7a6d730f-9020-42bf-8235-a2dc2a810bda" />
+
 <img width="1600" height="767" alt="WhatsApp Image 2026-09-25 at 8 05 51 AM (2)" src="https://github.com/user-attachments/assets/230b0fb6-f12c-412f-a126-393ae8ba9530" />
 <img width="1468" height="670" alt="WhatsApp Image 2026-09-25 at 8 05 51 AM (3)" src="https://github.com/user-attachments/assets/dbde6a34-7f4f-4e47-929b-20dd4f0f7d95" />
 <img width="1600" height="768" alt="WhatsApp Image 2026-09-25 at 8 05 51 AM (4)" src="https://github.com/user-attachments/assets/2f354d68-a260-485a-b64c-03e22d4dee79" />
